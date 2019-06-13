@@ -13,10 +13,11 @@ I was an army of one. I did not have a team for this project because I had to ta
 
 ### NO CAMERA
 
-<img src="imgs/no_cam.png" width= "400";/>
+<img src="imgs/no_cam.png" width= "400"/>
      
      
 ### CAMERA
 
 <img src="imgs/drift.png"
-width = "400"; />
+width = "400"/>
+
